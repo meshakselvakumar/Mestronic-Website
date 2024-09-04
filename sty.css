@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+    }
+
+header{
+    height: 100px;
+    width:100%;
+    background-color: black;
+    color: rgb(50, 49, 49);
+    opacity: 0.8;
+    position: fixed;
+    padding-bottom: 100px;
+}
+
+
+
+.myh1{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 5% ;
+    color: rgb(249, 247, 247);
+}
+
+.myh2{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 15%;
+    color: rgb(0, 0, 0);
+    padding-top: 150px;
+}
+
+ul,h1,li{
+    display: inline;
+}
+
+li{
+    color: rgb(50, 49, 49);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: inline-block;
+    margin-right: 5px;
+  
+}
+
+.myul{
+    padding-left: 20%;
+    padding-right: 0;
+}
+
+li:hover{
+    color:white;
+}
+
+.mylink{
+    text-decoration: none;
+    color: rgb(189, 188, 188);
+}
+.mylink:hover{
+    color:white;
+}
+
+
+.banner{
+    margin-top: 10px;
+
+}
+
+.divi{
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    color: 0077b6;
+    text-align: center;
+    
+}
+
+
+.tab{
+    table-layout: auto;
+    background-color: rgb(11, 172, 247);
+    color: white;
+
+    
+}
+
+
+
+
+
+
+img{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.footer{
+    height: 100px;
+    width:100%;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 220px;
+}
+
+.register{
+    text-align: center;
+    padding-top: 70px;
+}
+
+.regh1{
+    text-align: center;
+}
+
+.tab1{
+    text-align: center;
+}
+
+
+
+
+footer{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(4, 4, 4);
+    color: white;
+    padding-top: 50px;
+    padding-right: 50px;
+}
+
+.foot{
+    display: inline-block;
+}
+.left{
+   
+    margin-left: 50px;
+    
+   
+}
+
+.rigth
+{ 
+  
+    float: right;
+
+   
+}
+
+.bot{
+    padding-top: 80px;
+
+}
